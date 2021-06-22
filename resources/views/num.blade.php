@@ -1,6 +1,3 @@
-@extends('layouts.app')
-
-@section('content')
 <div class="mx-auto" style="width:50rem;">
     <h2>振り向き計算アプリ</h2>
 
@@ -69,4 +66,3 @@
         </div>
     </div>
 </div>
-@endsection
